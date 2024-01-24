@@ -1,0 +1,5 @@
+  for (const auto& commit : branch.second) {
+                std::cout << commit << ", ";
+            }
+            std::cout << "\n";
+        }
